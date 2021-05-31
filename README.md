@@ -1,6 +1,8 @@
 # koa-source
 koa 简单实现
+### koa api 
 
+![koa](./images/koa-source-img.png)
 ### 思路分析
 
 - 无非就是use 的时候拿到回调函数， listen 的时候执行这个回调函数
